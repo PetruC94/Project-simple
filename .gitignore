@@ -1,7 +1,8 @@
 build/
 dist/
-.log
+*.log
 dist/ 
 src/
 main/
 resources/
+*/bak
